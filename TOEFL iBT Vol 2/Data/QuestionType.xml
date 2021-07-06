@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2012-05-28T17:25:15">
+<QuestionType>
+<QuestionTypeID>1</QuestionTypeID>
+<QuestionType>Multiple Choice</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>6</QuestionTypeID>
+<QuestionType>All That Apply</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>7</QuestionTypeID>
+<QuestionType>Instructions</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>8</QuestionTypeID>
+<QuestionType>Full Passage</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>9</QuestionTypeID>
+<QuestionType>Listen</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>10</QuestionTypeID>
+<QuestionType>Speaking Prep</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>11</QuestionTypeID>
+<QuestionType>Speaking Question</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>12</QuestionTypeID>
+<QuestionType>Reading</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>13</QuestionTypeID>
+<QuestionType>Task Instructions</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>14</QuestionTypeID>
+<QuestionType>Text Entry</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>15</QuestionTypeID>
+<QuestionType>A or B</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>16</QuestionTypeID>
+<QuestionType>Insert Text</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>17</QuestionTypeID>
+<QuestionType>Prose Summary</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>18</QuestionTypeID>
+<QuestionType>Speaking Prep With Timer</QuestionType>
+</QuestionType>
+<QuestionType>
+<QuestionTypeID>19</QuestionTypeID>
+<QuestionType>Fill In the Table</QuestionType>
+</QuestionType>
+</dataroot>
